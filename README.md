@@ -1,8 +1,8 @@
 # gust.
 **A super serious desktop application for Advantage Air MyAir5 systems.**
 
-<img height="387" alt="Screenshot 2023-11-14 at 7 28 11 pm" src="https://github.com/atextual/gust/assets/115801388/d8f80e7c-9c9b-4a12-b39e-706916c412ce">
-<img width="500" alt="Screenshot 2023-11-14 at 7 24 43 pm" src="https://github.com/atextual/gust/assets/115801388/e3cfad3b-e291-48ac-93db-fafdf8f10567">
+<img height="387" alt="Screenshot 2023-11-14 at 7 28 11 pm" src="https://github.com/atextual/gust/assets/115801388/dbaaa7d9-95b5-4272-959e-1e3380d15763">
+<img width="500" alt="Screenshot 2023-11-14 at 7 24 43 pm" src="https://github.com/atextual/gust/assets/115801388/227883bc-3d87-435b-9825-e9e36e3481d1">
 
 Gust integrates with your MyAir climate system, putting unmatched power and simplicity into your hands. It's where functionality meets aesthetics to redefine your interaction with home climate control, or something that a marketing team might write.
 
@@ -25,7 +25,8 @@ Nope. Just load the app and enjoy your demo version. Buttons and buttons! Beep b
 
 ## Video
 
-https://github.com/atextual/gust/assets/115801388/7b703003-ae05-4574-8305-69cc12e06f5f
+https://github.com/atextual/gust/assets/115801388/7b79d244-7343-4072-ae34-e07d4c087a69
+
 
 ---
 
