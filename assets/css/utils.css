@@ -1,0 +1,10 @@
+@tailwind utilities;
+
+@layer utilities {
+  .app-region-none {
+    -webkit-app-region: none;
+  }
+  .app-region-drag {
+    -webkit-app-region: drag;
+  }
+}
